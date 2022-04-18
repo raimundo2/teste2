@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tem Bauru" tvg-logo="https://s1.postimg.org/7pmfgg8i8f/GLOBO.png" group-title="Canais abertos",Globo TV Tem Bauru
+http://iptvip.com:25461/live/XeZ1tdm6Vs/Iu2ZMgtX7Y/445.ts'victorallm.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tem SJRP" tvg-logo="https://s1.postimg.org/7pmfgg8i8f/GLOBO.png" group-title="Canais abertos",Globo TV Tem SJRP
+http://iptvip.com:25461/live/XeZ1tdm6Vs/Iu2ZMgtX7Y/446.ts'victorallm.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tem Sorocaba" tvg-logo="https://s1.postimg.org/7pmfgg8i8f/GLOBO.png" group-title="Canais abertos",Globo TV Tem Sorocaba
+http://iptvip.com:25461/live/XeZ1tdm6Vs/Iu2ZMgtX7Y/447.ts'victorallm.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Verdes mares" tvg-logo="https://s1.postimg.org/7pmfgg8i8f/GLOBO.png" group-title="Canais abertos",Globo TV Verdes mares
+http://iptvip.com:25461/live/XeZ1tdm6Vs/Iu2ZMgtX7Y/448.ts'victorallm.ts
